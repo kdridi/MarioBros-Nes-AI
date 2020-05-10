@@ -9,6 +9,10 @@
 ## Installation
 
 ```sh
+cd /tmp
+git clone https://github.com/kdridi/MarioBros-Nes-AI.git
+cd MarioBros-Nes-AI
+
 rm -rf .env
 mkdir .env
 
